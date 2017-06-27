@@ -5,3 +5,5 @@ spring:
         git:
           uri: https://github.com/iBaskati/ConfigData/
           searchPaths: ConfigData
+server:
+  port:8001
